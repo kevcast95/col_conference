@@ -86,7 +86,8 @@ export const esText = {
     role4: "Comité Ejecutivo (Universidad de Chicago)",
     role5: "Comité Ejecutivo (Instituto de Tecnología de Massachusetts)",
     role6: "Comité Ejecutivo (Unversidad Internacional de Florida)",
-    role7: "Comité Ejecutivo (Universidad del Noroeste)"
+    role7: "Comité Ejecutivo (Universidad del Noroeste)",
+    role8: "Comité Ejecutivo (Sociedad de Estudiantes Colombianos de Harvard)"
   },
   sponsors: {
     sponsor1: "Asociación de estudiantes colombianos en Harvard",

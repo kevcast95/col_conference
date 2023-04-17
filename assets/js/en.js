@@ -86,6 +86,7 @@ export const enText = {
     role5: "Executive Committee (Massachusetts Institute of Technology)",
     role6: "Executive Committee (FLorida International University)",
     role7: "Executive Committee (Northeastern University)",
+    role8: "Executive Committee (Harvard Colombian Student Society)"
   },
   sponsors: {
     sponsor1: "Harvard Colombian Student Society",
