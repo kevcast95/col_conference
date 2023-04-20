@@ -160,8 +160,7 @@ export const organizersEn = [
   },
   {
     id: "al08",
-    name: "Juan Jose Muños",
-    pic: "juan.jpg",
+    name: "Alejandro Garcia",
     role: "Miembro del Comité Ejecutivo",
     bioSumary: ``,
     bio: `Alejandro is a doctor from the Universidad de los Andes, a Master of Public Health student at 

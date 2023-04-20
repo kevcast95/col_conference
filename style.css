@@ -1456,7 +1456,7 @@ button:focus {
 .mu-bio-pic {
 	width: 550px;
 	height: 360px;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 
