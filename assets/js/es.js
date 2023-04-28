@@ -39,7 +39,7 @@ export const esText = {
   schedule: {
     title: "Cronograma",
     day1: "Día 1 / 27 Abr",
-    day2: "Día 2 / 28 Abr",
+    day2: "Ir al cronograma",
     day3: "Día 3 / 29 Abr",
     satelite: "Evento satélite - Instituto de Tecnología de Massachusetts",
     opening: "Ceremonia de Inauguración",

@@ -38,7 +38,7 @@ export const enText = {
   schedule: {
     title: "Schedule Detail",
     day1: "Day 1 / 27 Apr",
-    day2: "Day 2 / 28 Apr",
+    day2: "Go to Schedule",
     day3: "Day 3 / 29 Apr",
     satelite: "Satellite event - Massachusetts Institute of Technology",
     opening: "Opening Ceremony",
